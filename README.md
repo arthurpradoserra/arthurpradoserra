@@ -1,4 +1,4 @@
-Eu sou o Arthur Prado Serra, Estudante de Engenharia Software.
+Eu sou o Arthur Prado Serra, Estudante de Engenharia de Software 1a semestre.
 <div style="display: inline_block"><br>
 </div>
   
