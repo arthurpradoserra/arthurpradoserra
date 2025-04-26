@@ -1,6 +1,6 @@
-Eu sou o Arthur Prado Serra, Estudante de Engenharia de Software 1a semestre.
-📅 18 anos de idade.
-🎮 Sou fã de jogos.
+##  Olá, sou o Arthur Prado Serra, Estudante de Engenharia de Software 1a semestre.
+- 📅 18 anos de idade.
+- 🎮 Sou fã de jogos.
 <div style="display: inline_block"><br>
 </div>
   
