@@ -1,6 +1,5 @@
-##  Olá, sou o Arthur Prado Serra, Estudante de Engenharia de Software 1a semestre.
-- 📅 18 anos de idade.
-- 🎮 Sou fã de jogos.
+##  Olá, sou o Arthur Prado Serra, Estudante da UFPR - Campus Jandaia do Sul do curso Inteligência Artificial e Engenharia de Software 3a semestre.
+- 📅 19 anos de idade.
 <div style="display: inline_block"><br>
 </div>
   
